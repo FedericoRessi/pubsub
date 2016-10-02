@@ -1,0 +1,3 @@
+six
+msgpack-python
+PyYAML

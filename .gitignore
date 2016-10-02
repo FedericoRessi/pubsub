@@ -1,0 +1,18 @@
+# Python
+*.pyc
+*.pyo
+
+# Eclipse
+.project
+.pydevproject
+
+# Validation
+__pycache__
+pubsub.egg-info/
+.tox/
+AUTHORS
+ChangeLog
+.cache/
+.coverage
+coverage.xml
+report/
